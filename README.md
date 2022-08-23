@@ -1,2 +1,2 @@
 # instagram_playstore_sentiment
-sentiment analysis of instagram reviews on play store
+scraping data and sentiment analysis of most relevant instagram reviews on play store
